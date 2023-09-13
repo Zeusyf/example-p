@@ -48,7 +48,7 @@
         "nonce": "^1.0.4",
         "redis": "^2.8.0",
         "request": "^2.88.0",
-        "stratum-pool": "git+https://github.com/Zeusyf/example-f.git"
+        "stratum-pool": "git+https://github.com/Zeusyf/example-first"
     },
     "engines": {
         "node": ">=8.11"
